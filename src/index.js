@@ -17,7 +17,7 @@ const F = Foo();
 
 F();
 
-// 3. array Function
+// 3. arrow Function
 //    함수 = 매개변수 + 리턴
 //    const A = (매개변수) => {리턴}
 // 1)
